@@ -1,0 +1,6 @@
+{
+  "name": "Ekta Communication – Photocopy & Document Service, Ekma",
+  "description": "Trusted Bihar registry, land records, photocopy, and document services near Registry Office, Ekma, Saran, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
